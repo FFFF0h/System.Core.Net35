@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle ("Theraot.Core")]
+[assembly: AssemblyTitle ("System.Core.Net35")]
 [assembly: AssemblyDescription ("")]
 [assembly: AssemblyConfiguration ("")]
 [assembly: AssemblyCompany ("Theraot")]
-[assembly: AssemblyProduct ("Theraot.Core")]
+[assembly: AssemblyProduct ("System.Core.Net35")]
 [assembly: AssemblyCopyright ("Copyright 2010 - 2016 by Theraot")]
 [assembly: AssemblyTrademark ("")]
 [assembly: AssemblyCulture ("")]

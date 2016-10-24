@@ -6,11 +6,7 @@ using System;
 
 namespace Theraot.Core
 {
-#if NETCF
-    internal interface IErsatz<T>
-#else
     internal interface IErsatz<out T>
-#endif
     {
         T Result
         {

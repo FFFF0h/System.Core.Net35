@@ -6,8 +6,8 @@
     <ProjectGuid>{B5078871-4299-49ED-B921-3B5EBE57336A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Theraot.Core</RootNamespace>
-    <AssemblyName>Theraot.Core</AssemblyName>
+    <RootNamespace>System.Core</RootNamespace>
+    <AssemblyName>System.Core.Net35</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile>
     </TargetFrameworkProfile>
