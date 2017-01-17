@@ -232,6 +232,7 @@
     <Compile Include="System\Dynamic\Utils\ListArgumentProvider.cs" />
     <Compile Include="System\Dynamic\Utils\Strings.cs" />
     <Compile Include="System\Dynamic\Utils\TrueReadOnlyCollection.cs" />
+    <Compile Include="System\EnumExtension.cs" />
     <Compile Include="System\Linq\Expressions\Compiler\AssemblyGen.cs" />
     <Compile Include="System\Linq\Expressions\Compiler\ConstantCheck.cs" />
     <Compile Include="System\Linq\Expressions\Compiler\DelegateHelpers.Generated.cs" />
